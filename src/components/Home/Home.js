@@ -1,8 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProfilePic from "../../assets/LukaszKalicki.jpg";
-import SocialMedia from "../SocialMedia";
-import TypeWriter from "./TypeWriter";
 
 function Home() {
   return (
@@ -29,7 +27,6 @@ function Home() {
               </p>
 
               <div className="heading-type">
-                <TypeWriter />
               </div>
             </Col>
 

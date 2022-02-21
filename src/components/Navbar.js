@@ -10,8 +10,6 @@ import {
   AiFillMail,
 } from "react-icons/ai";
 
-import { MdDeveloperMode } from "react-icons/md";
-
 import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
