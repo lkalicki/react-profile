@@ -90,9 +90,9 @@ The profile is helpful to showcase my portfolio. React.js helps make it more use
 ## Links
 <ul>
     <li>
-    GitHub Repository: https://github.com/lkalicki/budget-tracker
+    GitHub Repository: https://github.com/lkalicki/react-profile
     </li>
     <li>
-    Heroku Application: https://lkalicki-budget-tracker.herokuapp.com/
+    Deployed Application: https://lkalicki.github.io/react-profile/
     </li>
 </ul>
