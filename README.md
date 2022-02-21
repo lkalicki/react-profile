@@ -1,3 +1,13 @@
+React Profile
+
+## Description 
+
+My React Profile was built leveraging React.js. Through multiple components, I was able to complete a acceptable profile that met the acceptance criteria for each of the applicable sections within the Navigation bar. 
+
+## Installation
+
+Download the code repository and adjust the code to fit your needs/information. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Usage 
+
+The profile is helpful to showcase my portfolio. React.js helps make it more user friendly and appealing to the eye versus the traditional HTML and CSS usage. 
+
+## Contributors
+
+- Lukasz Kalicki 
+
+## Links
+<ul>
+    <li>
+    GitHub Repository: https://github.com/lkalicki/budget-tracker
+    </li>
+    <li>
+    Heroku Application: https://lkalicki-budget-tracker.herokuapp.com/
+    </li>
+</ul>
