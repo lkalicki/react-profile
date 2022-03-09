@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/react-profile/static/css/main.18a8fe85.css",
-    "main.js": "/react-profile/static/js/main.50f24260.js",
+    "main.js": "/react-profile/static/js/main.ee79caa4.js",
     "static/media/Kalicki_Resume.pdf": "/react-profile/static/media/Kalicki_Resume.f9eee201c19f245f18a5.pdf",
     "static/media/LukaszKalicki.jpg": "/react-profile/static/media/LukaszKalicki.7c030048761e1c6eac4a.jpg",
     "static/media/techblog.JPG": "/react-profile/static/media/techblog.591e71a9e919f9363e7e.JPG",
     "static/media/budget.JPG": "/react-profile/static/media/budget.d23d2a010fa502e13cbd.JPG",
+    "static/media/whattowatch.JPG": "/react-profile/static/media/whattowatch.67b97c89701395a60b28.JPG",
     "static/media/notetaker.JPG": "/react-profile/static/media/notetaker.244321e0488deb6a145a.JPG",
     "static/media/weather.jpg": "/react-profile/static/media/weather.5b1ee81c1fc108262714.jpg",
-    "static/media/workday.jpg": "/react-profile/static/media/workday.eb054782dcb6fca5a903.jpg",
     "static/media/password.jpg": "/react-profile/static/media/password.1d68857fa91e5a1e77e5.jpg",
     "index.html": "/react-profile/index.html",
     "main.18a8fe85.css.map": "/react-profile/static/css/main.18a8fe85.css.map",
-    "main.50f24260.js.map": "/react-profile/static/js/main.50f24260.js.map"
+    "main.ee79caa4.js.map": "/react-profile/static/js/main.ee79caa4.js.map"
   },
   "entrypoints": [
     "static/css/main.18a8fe85.css",
-    "static/js/main.50f24260.js"
+    "static/js/main.ee79caa4.js"
   ]
 }
