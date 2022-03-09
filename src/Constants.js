@@ -3,7 +3,6 @@ import NOTETAKER from "./assets/Projects/notetaker.JPG";
 import PASSWORD from "./assets/Projects/password.jpg";
 import TECHBLOG from "./assets/Projects/techblog.JPG";
 import WEATHER from "./assets/Projects/weather.jpg";
-import WORKDAY from "./assets/Projects/workday.jpg";
 import WHATTOWATCH from  "./assets/Projects/whattowatch.JPG"
 
 export const PROJECTS = [
@@ -48,13 +47,6 @@ export const PROJECTS = [
     technologyUsed: "Server-side APIs",
     giturl: "https://github.com/lkalicki/weather-dashboard",
     appurl: "https://lkalicki.github.io/weather-dashboard"
-  },
-  {
-    image: WORKDAY,
-    name: "Work Day Scheduler",
-    technologyUsed: "Third-Party APIs",
-    giturl: "https://github.com/lkalicki/work-day-scheduler",
-    appurl: "https://lkalicki.github.io/work-day-scheduler"
   },
 ];
 
