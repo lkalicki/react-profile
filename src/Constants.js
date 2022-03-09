@@ -4,8 +4,16 @@ import PASSWORD from "./assets/Projects/password.jpg";
 import TECHBLOG from "./assets/Projects/techblog.JPG";
 import WEATHER from "./assets/Projects/weather.jpg";
 import WORKDAY from "./assets/Projects/workday.jpg";
+import WHATTOWATCH from  "./assets/Projects/whattowatch.JPG"
 
 export const PROJECTS = [
+  {
+    image: WHATTOWATCH,
+    name: "WhatToWatch Movie Database",
+    technologyUsed: "MERN Stack",
+    giturl: "https://github.com/lkalicki/whattowatch",
+    appurl: "https://lkalicki-whattowatch.herokuapp.com/"
+  },
   {
     image: BUDGET,
     name: "Budget Tracker",
