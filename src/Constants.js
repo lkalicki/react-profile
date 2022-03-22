@@ -3,15 +3,15 @@ import NOTETAKER from "./assets/Projects/notetaker.JPG";
 import PASSWORD from "./assets/Projects/password.jpg";
 import TECHBLOG from "./assets/Projects/techblog.JPG";
 import WEATHER from "./assets/Projects/weather.jpg";
-import WHATTOWATCH from  "./assets/Projects/whattowatch.JPG"
+import BOOKSEARCH from  "./assets/Projects/booksearch.JPG"
 
 export const PROJECTS = [
   {
-    image: WHATTOWATCH,
-    name: "WhatToWatch Movie Database",
+    image: BOOKSEARCH,
+    name: "Book Search Engine",
     technologyUsed: "MERN Stack",
-    giturl: "https://github.com/lkalicki/whattowatch",
-    appurl: "https://lkalicki-whattowatch.herokuapp.com/"
+    giturl: "https://github.com/lkalicki/book-search-engine",
+    appurl: "https://lkalicki-book-search-engine.herokuapp.com/"
   },
   {
     image: BUDGET,
